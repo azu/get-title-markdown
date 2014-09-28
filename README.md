@@ -25,7 +25,7 @@ Get title content from above markdown.
 ```javascript
 var getTitle = require("get-html-markdown");
 var content = fs.readFileSync(__dirname + "/test.md", "utf-8");
-getTitle(content);// => "Title"
+getTitle(content); // => "Title"
 ```
 
 ## Contributing
