@@ -1,7 +1,7 @@
 {
   "name": "get-title-markdown",
   "description": "get title from markdown.",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "homepage": "https://github.com/azu/get-title-markdown/",
   "repository": {
     "type": "git",
