@@ -7,7 +7,7 @@ HTML Version : [azu/get-html-title](https://github.com/azu/get-html-title/ "azu/
 ## Installation
 
 ``` console
-npm install get-html-markdown
+npm install get-title-markdown
 ```
 
 ## Usage
@@ -23,7 +23,7 @@ test text
 Get title content from above markdown.
 
 ```javascript
-var getTitle = require("get-html-markdown");
+var getTitle = require("get-title-markdown");
 var content = fs.readFileSync(__dirname + "/test.md", "utf-8");
 getTitle(content); // => "Title"
 ```
