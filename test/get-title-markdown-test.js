@@ -1,5 +1,7 @@
 "use strict";
 var assert = require("power-assert");
+var getTitle = require("../");
+
 describe("get-title-markdown-test", function () {
     context("when has title", function () {
         it("should return title of markdown", function () {
@@ -20,4 +22,3 @@ describe("get-title-markdown-test", function () {
         });
     });
 });
-var getTitle = require("../");

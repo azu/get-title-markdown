@@ -1,0 +1,28 @@
+{
+  "name": "get-title-markdown",
+  "description": "get title from markdown.",
+  "version": "1.0.0",
+  "homepage": "https://github.com/azu/get-title-markdown/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azu/get-title-markdown.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "directories": {
+    "test": "test/"
+  },
+  "author": "azu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/azu/get-title-markdown/issues"
+  },
+  "devDependencies": {
+    "espower-loader": "^0.9.1",
+    "intelli-espower-loader": "^0.4.0",
+    "mocha": "^1.21.4",
+    "power-assert": "^0.9.0"
+  }
+}
