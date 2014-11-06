@@ -1,4 +1,4 @@
-# get-title-markdown [![Build Status](https://travis-ci.org/azu/get-title-markdown.svg)](https://travis-ci.org/azu/get-title-markdown)
+# get-title-markdown [![Build Status](https://travis-ci.org/azu/get-title-markdown.svg)](https://travis-ci.org/azu/get-title-markdown) [ ![Codeship Status for azu/get-title-markdown](https://www.codeship.io/projects/4ef13cd0-478e-0132-e3fa-1287ba88ce3a/status)](https://www.codeship.io/projects/45646)
 
 Get `# title` content from Markdown string.
 
